@@ -20,6 +20,9 @@ function App() {
             <DonutChart />
           </div>
         </div>
+        <div className="py-3">
+          <h5 className="text-primary"> Todas as Vendas </h5>
+        </div>
         <DataTable/>
       </div>
       <Footer />
